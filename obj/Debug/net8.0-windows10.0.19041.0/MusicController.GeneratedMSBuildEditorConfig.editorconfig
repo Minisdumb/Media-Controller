@@ -1,0 +1,58 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
+build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.RuntimeIdentifier = 
+build_property.AppHostRuntimeIdentifier = win-x64
+build_property.DefaultAppHostRuntimeIdentifier = win-x64
+build_property.NETCoreSdkPortableRuntimeIdentifier = win-x64
+build_property.IsTestProject = 
+build_property.ProjectAssetsFile = d:\code\c#\Aval_Music_controler\MusicController\obj\project.assets.json
+build_property.ProjectDepsFilePath = d:\code\c#\Aval_Music_controler\MusicController\bin\Debug\net8.0-windows10.0.19041.0\MusicController.deps.json
+build_property.ProjectRuntimeConfigFilePath = d:\code\c#\Aval_Music_controler\MusicController\bin\Debug\net8.0-windows10.0.19041.0\MusicController.runtimeconfig.json
+build_property.IntermediateOutputPath = obj\Debug\net8.0-windows10.0.19041.0\
+build_property.PublishDir = bin\Debug\net8.0-windows10.0.19041.0\publish\
+build_property.AvaloniaMainPackageVersion = 12.0.2
+build_property.HasAvaloniaDiagnosticsSupport = 
+build_property.AvaloniaUseCompiledBindingsByDefault = true
+build_property.AvaloniaPreviewerNetCoreToolPath = C:\Users\omerp\.nuget\packages\avalonia\12.0.2\buildTransitive\\..\tools\net8.0\designer\Avalonia.Designer.HostApp.dll
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 10.0.19041.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MusicController
+build_property.ProjectDir = d:\code\c#\Aval_Music_controler\MusicController\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[d:/code/c\#/Aval_Music_controler/MusicController/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[d:/code/c\#/Aval_Music_controler/MusicController/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[d:/code/c\#/Aval_Music_controler/MusicController/SettingsWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
