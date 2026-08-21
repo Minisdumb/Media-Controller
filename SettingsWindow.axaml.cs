@@ -21,7 +21,7 @@ namespace MusicController
         {
             InitializeComponent();
 
-            string iconPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "app.ico");
+            string iconPath = Path.Combine(AppContext.BaseDirectory, "app.ico");
             if (File.Exists(iconPath))
             {
                 this.Icon = new WindowIcon(iconPath);

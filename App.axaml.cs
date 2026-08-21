@@ -42,7 +42,7 @@ namespace MusicController
             {
                 desktop.MainWindow = new MainWindow();
 
-                string iconPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "app.ico");
+                string iconPath = Path.Combine(AppContext.BaseDirectory, "app.ico");
                 WindowIcon? trayWindowIcon = null;
                 if (File.Exists(iconPath))
                 {
