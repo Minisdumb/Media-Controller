@@ -25,7 +25,7 @@ namespace MusicController
         public static int SavedY { get; set; } = -1;
         public static bool HasSavedPosition { get; set; } = false;
 
-        private static readonly string ConfigPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.json");
+        private static readonly string ConfigPath = Path.Combine(AppContext.BaseDirectory, "config.json");
         private TrayIcon? _trayIcon;
 
         public override void Initialize()
