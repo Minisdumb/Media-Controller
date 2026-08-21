@@ -83,7 +83,8 @@ namespace MusicController
                 {
                     if (key != null)
                     {
-                        string exePath = Environment.ProcessPath ?? System.Reflection.Assembly.GetExecutingAssembly().Location;
+                        string exePath = Environment.ProcessPath ?? AppContext.BaseDirectory;
+
                         
                         if (AutostartEnabled)
                         {
